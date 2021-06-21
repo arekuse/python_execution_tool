@@ -1,0 +1,1026 @@
+19.06.2019 13:46:31 - Starting "exec.cmd"
+19.06.2019 13:46:31 - 
+19.06.2019 13:46:31 - c:\Users\Alexei\Documents\Lazarus Projects\PET>SilentCMD.exe C:\Users\Alexei\AppData\Local\Programs\Python\Python37\pythonw.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.pyw" 
+19.06.2019 13:46:32 - Finished "exec.cmd"
+19.06.2019 13:51:04 - Starting "exec.cmd"
+19.06.2019 13:51:04 - 
+19.06.2019 13:51:04 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\pythonw.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.pyw" 
+19.06.2019 13:51:04 - Finished "exec.cmd"
+19.06.2019 13:51:05 - Starting "exec.cmd"
+19.06.2019 13:51:05 - 
+19.06.2019 13:51:05 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\pythonw.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.pyw" 
+19.06.2019 13:51:05 - Finished "exec.cmd"
+19.06.2019 13:51:05 - Starting "exec.cmd"
+19.06.2019 13:51:05 - 
+19.06.2019 13:51:05 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\pythonw.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.pyw" 
+19.06.2019 13:51:06 - Finished "exec.cmd"
+19.06.2019 13:51:06 - Starting "exec.cmd"
+19.06.2019 13:51:06 - 
+19.06.2019 13:51:06 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\pythonw.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.pyw" 
+19.06.2019 13:51:06 - Finished "exec.cmd"
+19.06.2019 13:51:07 - Starting "exec.cmd"
+19.06.2019 13:51:07 - 
+19.06.2019 13:51:07 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\pythonw.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.pyw" 
+19.06.2019 13:51:07 - Finished "exec.cmd"
+19.06.2019 13:52:00 - Starting "exec.cmd"
+19.06.2019 13:52:00 - 
+19.06.2019 13:52:00 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.py" 
+19.06.2019 13:52:00 - Finished "exec.cmd"
+19.06.2019 13:52:01 - Starting "exec.cmd"
+19.06.2019 13:52:01 - 
+19.06.2019 13:52:01 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.py" 
+19.06.2019 13:52:01 - Finished "exec.cmd"
+19.06.2019 13:52:02 - Starting "exec.cmd"
+19.06.2019 13:52:02 - 
+19.06.2019 13:52:02 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.py" 
+19.06.2019 13:52:02 - Finished "exec.cmd"
+19.06.2019 14:30:21 - Starting "exec.cmd"
+19.06.2019 14:30:21 - 
+19.06.2019 14:30:21 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.py" 
+19.06.2019 14:30:21 - Finished "exec.cmd"
+19.06.2019 14:30:23 - Starting "exec.cmd"
+19.06.2019 14:30:23 - 
+19.06.2019 14:30:23 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.py" 
+19.06.2019 14:30:24 - Finished "exec.cmd"
+19.06.2019 14:31:00 - Starting "exec.cmd"
+19.06.2019 14:31:00 - 
+19.06.2019 14:31:00 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.py" 
+19.06.2019 14:31:00 - Finished "exec.cmd"
+19.06.2019 14:31:03 - Starting "exec.cmd"
+19.06.2019 14:31:03 - 
+19.06.2019 14:31:03 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.py" 
+19.06.2019 14:31:03 - Finished "exec.cmd"
+19.06.2019 14:31:04 - Starting "exec.cmd"
+19.06.2019 14:31:04 - 
+19.06.2019 14:31:04 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.py" 
+19.06.2019 14:31:04 - Finished "exec.cmd"
+19.06.2019 14:31:05 - Starting "exec.cmd"
+19.06.2019 14:31:05 - 
+19.06.2019 14:31:05 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.py" 
+19.06.2019 14:31:05 - Finished "exec.cmd"
+19.06.2019 14:37:13 - Starting "exec.cmd"
+19.06.2019 14:37:13 - 
+19.06.2019 14:37:13 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.py" 
+19.06.2019 14:37:14 - Finished "exec.cmd"
+19.06.2019 14:37:18 - Starting "exec.cmd"
+19.06.2019 14:37:18 - 
+19.06.2019 14:37:18 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\435435.py" 
+19.06.2019 14:37:18 - Finished "exec.cmd"
+19.06.2019 14:40:16 - Starting "exec.cmd"
+19.06.2019 14:40:16 - 
+19.06.2019 14:40:16 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:40:16 - Finished "exec.cmd"
+19.06.2019 14:40:19 - Starting "exec.cmd"
+19.06.2019 14:40:19 - 
+19.06.2019 14:40:19 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:40:19 - Finished "exec.cmd"
+19.06.2019 14:42:15 - Starting "exec.cmd"
+19.06.2019 14:42:15 - 
+19.06.2019 14:42:15 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:42:15 - Finished "exec.cmd"
+19.06.2019 14:42:40 - Starting "exec.cmd"
+19.06.2019 14:42:40 - 
+19.06.2019 14:42:40 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:42:40 - Finished "exec.cmd"
+19.06.2019 14:42:43 - Starting "exec.cmd"
+19.06.2019 14:42:43 - 
+19.06.2019 14:42:43 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:42:43 - Finished "exec.cmd"
+19.06.2019 14:42:57 - Starting "exec.cmd"
+19.06.2019 14:42:57 - 
+19.06.2019 14:42:57 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:42:57 - Finished "exec.cmd"
+19.06.2019 14:43:27 - Starting "exec.cmd"
+19.06.2019 14:43:27 - 
+19.06.2019 14:43:27 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:43:27 - Finished "exec.cmd"
+19.06.2019 14:43:56 - Starting "exec.cmd"
+19.06.2019 14:43:56 - 
+19.06.2019 14:43:56 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:43:56 - Finished "exec.cmd"
+19.06.2019 14:43:56 - Starting "exec.cmd"
+19.06.2019 14:43:56 - 
+19.06.2019 14:43:56 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:43:56 - Finished "exec.cmd"
+19.06.2019 14:44:49 - Starting "exec.cmd"
+19.06.2019 14:44:49 - 
+19.06.2019 14:44:49 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:44:49 - Finished "exec.cmd"
+19.06.2019 14:44:52 - Starting "exec.cmd"
+19.06.2019 14:44:52 - 
+19.06.2019 14:44:52 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:44:52 - Finished "exec.cmd"
+19.06.2019 14:44:55 - Starting "exec.cmd"
+19.06.2019 14:44:55 - 
+19.06.2019 14:44:55 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:44:55 - Finished "exec.cmd"
+19.06.2019 14:44:55 - Starting "exec.cmd"
+19.06.2019 14:44:55 - 
+19.06.2019 14:44:55 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:44:55 - Finished "exec.cmd"
+19.06.2019 14:45:36 - Starting "exec.cmd"
+19.06.2019 14:45:36 - 
+19.06.2019 14:45:36 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:45:36 - Finished "exec.cmd"
+19.06.2019 14:45:36 - Starting "exec.cmd"
+19.06.2019 14:45:36 - 
+19.06.2019 14:45:36 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:45:36 - Finished "exec.cmd"
+19.06.2019 14:45:52 - Starting "exec.cmd"
+19.06.2019 14:45:52 - 
+19.06.2019 14:45:52 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:45:52 - Finished "exec.cmd"
+19.06.2019 14:45:52 - Starting "exec.cmd"
+19.06.2019 14:45:52 - 
+19.06.2019 14:45:52 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:45:52 - Finished "exec.cmd"
+19.06.2019 14:46:21 - Starting "exec.cmd"
+19.06.2019 14:46:21 - 
+19.06.2019 14:46:21 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:46:21 - Finished "exec.cmd"
+19.06.2019 14:46:26 - Starting "exec.cmd"
+19.06.2019 14:46:26 - 
+19.06.2019 14:46:26 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:46:26 - Finished "exec.cmd"
+19.06.2019 14:47:25 - Starting "exec.cmd"
+19.06.2019 14:47:25 - 
+19.06.2019 14:47:25 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:47:25 - Finished "exec.cmd"
+19.06.2019 14:47:30 - Starting "exec.cmd"
+19.06.2019 14:47:30 - 
+19.06.2019 14:47:30 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:47:30 - Finished "exec.cmd"
+19.06.2019 14:48:19 - Starting "exec.cmd"
+19.06.2019 14:48:19 - 
+19.06.2019 14:48:19 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:48:19 - Finished "exec.cmd"
+19.06.2019 14:48:34 - Starting "exec.cmd"
+19.06.2019 14:48:34 - 
+19.06.2019 14:48:34 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:48:34 - Finished "exec.cmd"
+19.06.2019 14:48:36 - Starting "exec.cmd"
+19.06.2019 14:48:36 - 
+19.06.2019 14:48:36 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:48:36 - Finished "exec.cmd"
+19.06.2019 14:48:39 - Starting "exec.cmd"
+19.06.2019 14:48:39 - 
+19.06.2019 14:48:39 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:48:39 - Finished "exec.cmd"
+19.06.2019 14:48:42 - Starting "exec.cmd"
+19.06.2019 14:48:42 - 
+19.06.2019 14:48:42 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:48:42 - Finished "exec.cmd"
+19.06.2019 14:50:59 - Starting "exec.cmd"
+19.06.2019 14:50:59 - 
+19.06.2019 14:50:59 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:50:59 - Finished "exec.cmd"
+19.06.2019 14:51:02 - Starting "exec.cmd"
+19.06.2019 14:51:02 - 
+19.06.2019 14:51:02 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:51:02 - Finished "exec.cmd"
+19.06.2019 14:51:05 - Starting "exec.cmd"
+19.06.2019 14:51:05 - 
+19.06.2019 14:51:05 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:51:05 - Finished "exec.cmd"
+19.06.2019 14:51:06 - Starting "exec.cmd"
+19.06.2019 14:51:06 - 
+19.06.2019 14:51:06 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:51:06 - Finished "exec.cmd"
+19.06.2019 14:51:47 - Starting "exec.cmd"
+19.06.2019 14:51:47 - 
+19.06.2019 14:51:47 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:51:47 - Finished "exec.cmd"
+19.06.2019 14:51:47 - Starting "exec.cmd"
+19.06.2019 14:51:48 - 
+19.06.2019 14:51:48 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:51:48 - Finished "exec.cmd"
+19.06.2019 14:51:53 - Starting "exec.cmd"
+19.06.2019 14:51:53 - 
+19.06.2019 14:51:53 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:51:53 - Finished "exec.cmd"
+19.06.2019 14:53:50 - Starting "exec.cmd"
+19.06.2019 14:53:50 - 
+19.06.2019 14:53:50 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:53:50 - Finished "exec.cmd"
+19.06.2019 14:53:50 - Starting "exec.cmd"
+19.06.2019 14:53:50 - 
+19.06.2019 14:53:50 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:53:50 - Finished "exec.cmd"
+19.06.2019 14:54:10 - Starting "exec.cmd"
+19.06.2019 14:54:10 - 
+19.06.2019 14:54:10 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:54:10 - Finished "exec.cmd"
+19.06.2019 14:54:10 - Starting "exec.cmd"
+19.06.2019 14:54:10 - 
+19.06.2019 14:54:10 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:54:10 - Finished "exec.cmd"
+19.06.2019 14:54:44 - Starting "exec.cmd"
+19.06.2019 14:54:44 - 
+19.06.2019 14:54:44 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:54:44 - Finished "exec.cmd"
+19.06.2019 14:54:44 - Starting "exec.cmd"
+19.06.2019 14:54:44 - 
+19.06.2019 14:54:44 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:54:44 - Finished "exec.cmd"
+19.06.2019 14:55:54 - Starting "exec.cmd"
+19.06.2019 14:55:54 - 
+19.06.2019 14:55:54 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:55:54 - Finished "exec.cmd"
+19.06.2019 14:55:56 - Starting "exec.cmd"
+19.06.2019 14:55:56 - 
+19.06.2019 14:55:56 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:55:57 - Finished "exec.cmd"
+19.06.2019 14:55:59 - Starting "exec.cmd"
+19.06.2019 14:55:59 - 
+19.06.2019 14:55:59 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:56:00 - Finished "exec.cmd"
+19.06.2019 14:56:00 - Starting "exec.cmd"
+19.06.2019 14:56:00 - 
+19.06.2019 14:56:00 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:56:00 - Finished "exec.cmd"
+19.06.2019 14:56:09 - Starting "exec.cmd"
+19.06.2019 14:56:09 - 
+19.06.2019 14:56:09 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 14:56:09 - Finished "exec.cmd"
+19.06.2019 14:56:09 - Starting "exec.cmd"
+19.06.2019 14:56:09 - 
+19.06.2019 14:56:09 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 14:56:10 - Finished "exec.cmd"
+19.06.2019 15:02:52 - Starting "exec.cmd"
+19.06.2019 15:02:52 - 
+19.06.2019 15:02:52 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:02:52 - Finished "exec.cmd"
+19.06.2019 15:02:52 - Starting "exec.cmd"
+19.06.2019 15:02:53 - 
+19.06.2019 15:02:53 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:02:53 - Finished "exec.cmd"
+19.06.2019 15:05:44 - Starting "exec.cmd"
+19.06.2019 15:05:44 - 
+19.06.2019 15:05:44 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:05:44 - Finished "exec.cmd"
+19.06.2019 15:06:35 - Starting "exec.cmd"
+19.06.2019 15:06:35 - 
+19.06.2019 15:06:35 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:06:35 - Finished "exec.cmd"
+19.06.2019 15:06:43 - Starting "exec.cmd"
+19.06.2019 15:06:43 - 
+19.06.2019 15:06:43 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:06:43 - Finished "exec.cmd"
+19.06.2019 15:06:48 - Starting "exec.cmd"
+19.06.2019 15:06:48 - 
+19.06.2019 15:06:48 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:06:48 - Finished "exec.cmd"
+19.06.2019 15:06:57 - Starting "exec.cmd"
+19.06.2019 15:06:57 - 
+19.06.2019 15:06:57 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:06:57 - Finished "exec.cmd"
+19.06.2019 15:08:46 - Starting "exec.cmd"
+19.06.2019 15:08:46 - 
+19.06.2019 15:08:46 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:08:46 - Finished "exec.cmd"
+19.06.2019 15:08:47 - Starting "exec.cmd"
+19.06.2019 15:08:47 - 
+19.06.2019 15:08:47 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:08:47 - Finished "exec.cmd"
+19.06.2019 15:11:08 - Starting "exec.cmd"
+19.06.2019 15:11:08 - 
+19.06.2019 15:11:08 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:11:08 - Finished "exec.cmd"
+19.06.2019 15:18:55 - Starting "exec.cmd"
+19.06.2019 15:18:55 - 
+19.06.2019 15:18:55 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:18:55 - Finished "exec.cmd"
+19.06.2019 15:18:55 - Starting "exec.cmd"
+19.06.2019 15:18:55 - 
+19.06.2019 15:18:55 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:18:56 - Finished "exec.cmd"
+19.06.2019 15:19:06 - Starting "exec.cmd"
+19.06.2019 15:19:06 - 
+19.06.2019 15:19:06 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:19:06 - Finished "exec.cmd"
+19.06.2019 15:19:08 - Starting "exec.cmd"
+19.06.2019 15:19:08 - 
+19.06.2019 15:19:08 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:19:08 - Finished "exec.cmd"
+19.06.2019 15:19:11 - Starting "exec.cmd"
+19.06.2019 15:19:11 - 
+19.06.2019 15:19:11 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:19:11 - Finished "exec.cmd"
+19.06.2019 15:19:12 - Starting "exec.cmd"
+19.06.2019 15:19:12 - 
+19.06.2019 15:19:12 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:19:12 - Finished "exec.cmd"
+19.06.2019 15:20:32 - Starting "exec.cmd"
+19.06.2019 15:20:32 - 
+19.06.2019 15:20:32 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:20:32 - Finished "exec.cmd"
+19.06.2019 15:20:32 - Starting "exec.cmd"
+19.06.2019 15:20:32 - 
+19.06.2019 15:20:32 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:20:33 - Finished "exec.cmd"
+19.06.2019 15:20:37 - Starting "exec.cmd"
+19.06.2019 15:20:37 - 
+19.06.2019 15:20:37 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:20:37 - Finished "exec.cmd"
+19.06.2019 15:20:37 - Starting "exec.cmd"
+19.06.2019 15:20:37 - 
+19.06.2019 15:20:37 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:20:37 - Finished "exec.cmd"
+19.06.2019 15:21:27 - Starting "exec.cmd"
+19.06.2019 15:21:27 - 
+19.06.2019 15:21:27 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:21:27 - Finished "exec.cmd"
+19.06.2019 15:21:27 - Starting "exec.cmd"
+19.06.2019 15:21:27 - 
+19.06.2019 15:21:27 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:21:27 - Finished "exec.cmd"
+19.06.2019 15:23:46 - Starting "exec.cmd"
+19.06.2019 15:23:46 - 
+19.06.2019 15:23:46 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:23:46 - Finished "exec.cmd"
+19.06.2019 15:23:50 - Starting "exec.cmd"
+19.06.2019 15:23:50 - 
+19.06.2019 15:23:50 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:23:50 - Finished "exec.cmd"
+19.06.2019 15:23:50 - Starting "exec.cmd"
+19.06.2019 15:23:50 - 
+19.06.2019 15:23:50 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:23:50 - Finished "exec.cmd"
+19.06.2019 15:24:46 - Starting "exec.cmd"
+19.06.2019 15:24:46 - 
+19.06.2019 15:24:46 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:24:46 - Finished "exec.cmd"
+19.06.2019 15:24:46 - Starting "exec.cmd"
+19.06.2019 15:24:46 - 
+19.06.2019 15:24:46 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:24:46 - Finished "exec.cmd"
+19.06.2019 15:24:55 - Starting "exec.cmd"
+19.06.2019 15:24:55 - 
+19.06.2019 15:24:55 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:24:55 - Finished "exec.cmd"
+19.06.2019 15:24:58 - Starting "exec.cmd"
+19.06.2019 15:24:58 - 
+19.06.2019 15:24:58 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:24:58 - Finished "exec.cmd"
+19.06.2019 15:27:27 - Starting "exec.cmd"
+19.06.2019 15:27:27 - 
+19.06.2019 15:27:27 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:27:27 - Finished "exec.cmd"
+19.06.2019 15:27:27 - Starting "exec.cmd"
+19.06.2019 15:27:27 - 
+19.06.2019 15:27:27 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:27:27 - Finished "exec.cmd"
+19.06.2019 15:29:33 - Starting "exec.cmd"
+19.06.2019 15:29:33 - 
+19.06.2019 15:29:33 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:29:34 - Finished "exec.cmd"
+19.06.2019 15:29:34 - Starting "exec.cmd"
+19.06.2019 15:29:34 - 
+19.06.2019 15:29:34 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:29:34 - Finished "exec.cmd"
+19.06.2019 15:31:09 - Starting "exec.cmd"
+19.06.2019 15:31:09 - 
+19.06.2019 15:31:09 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:31:09 - Finished "exec.cmd"
+19.06.2019 15:31:10 - Starting "exec.cmd"
+19.06.2019 15:31:10 - 
+19.06.2019 15:31:10 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:31:10 - Finished "exec.cmd"
+19.06.2019 15:31:18 - Starting "exec.cmd"
+19.06.2019 15:31:18 - 
+19.06.2019 15:31:18 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:31:18 - Finished "exec.cmd"
+19.06.2019 15:34:22 - Starting "exec.cmd"
+19.06.2019 15:34:22 - 
+19.06.2019 15:34:22 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 15:34:22 - Finished "exec.cmd"
+19.06.2019 15:36:04 - Starting "exec.cmd"
+19.06.2019 15:36:04 - 
+19.06.2019 15:36:04 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:36:05 - Finished "exec.cmd"
+19.06.2019 15:45:40 - Starting "exec.cmd"
+19.06.2019 15:45:40 - 
+19.06.2019 15:45:40 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 15:45:40 - Finished "exec.cmd"
+19.06.2019 16:07:50 - Starting "exec.cmd"
+19.06.2019 16:07:50 - 
+19.06.2019 16:07:50 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:07:50 - Finished "exec.cmd"
+19.06.2019 16:08:20 - Starting "exec.cmd"
+19.06.2019 16:08:20 - 
+19.06.2019 16:08:20 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:08:20 - Finished "exec.cmd"
+19.06.2019 16:08:22 - Starting "exec.cmd"
+19.06.2019 16:08:22 - 
+19.06.2019 16:08:22 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:08:22 - Finished "exec.cmd"
+19.06.2019 16:08:55 - Starting "exec.cmd"
+19.06.2019 16:08:55 - 
+19.06.2019 16:08:55 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:08:55 - Finished "exec.cmd"
+19.06.2019 16:08:55 - Starting "exec.cmd"
+19.06.2019 16:08:55 - 
+19.06.2019 16:08:55 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 16:08:55 - Finished "exec.cmd"
+19.06.2019 16:09:02 - Starting "exec.cmd"
+19.06.2019 16:09:02 - 
+19.06.2019 16:09:02 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\59e67a75-9f67-4796-a67b-d9ba462bca74.py" 
+19.06.2019 16:09:02 - Finished "exec.cmd"
+19.06.2019 16:09:02 - Starting "exec.cmd"
+19.06.2019 16:09:02 - 
+19.06.2019 16:09:02 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\7b742fb3-3145-45f4-ba73-cd57ade1a01c.py" 
+19.06.2019 16:09:02 - Finished "exec.cmd"
+19.06.2019 16:09:10 - Starting "exec.cmd"
+19.06.2019 16:09:10 - 
+19.06.2019 16:09:10 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\59e67a75-9f67-4796-a67b-d9ba462bca74.py" 
+19.06.2019 16:09:10 - Finished "exec.cmd"
+19.06.2019 16:09:10 - Starting "exec.cmd"
+19.06.2019 16:09:10 - 
+19.06.2019 16:09:10 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\7b742fb3-3145-45f4-ba73-cd57ade1a01c.py" 
+19.06.2019 16:09:10 - Finished "exec.cmd"
+19.06.2019 16:14:06 - Starting "exec.cmd"
+19.06.2019 16:14:06 - 
+19.06.2019 16:14:06 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 16:14:06 - Finished "exec.cmd"
+19.06.2019 16:14:09 - Starting "exec.cmd"
+19.06.2019 16:14:10 - 
+19.06.2019 16:14:10 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:14:10 - Finished "exec.cmd"
+19.06.2019 16:14:10 - Starting "exec.cmd"
+19.06.2019 16:14:10 - 
+19.06.2019 16:14:10 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 16:14:10 - Finished "exec.cmd"
+19.06.2019 16:15:16 - Starting "exec.cmd"
+19.06.2019 16:15:16 - 
+19.06.2019 16:15:16 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\59e67a75-9f67-4796-a67b-d9ba462bca74.py" 
+19.06.2019 16:15:17 - Finished "exec.cmd"
+19.06.2019 16:15:55 - Starting "exec.cmd"
+19.06.2019 16:15:55 - 
+19.06.2019 16:15:55 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\7b742fb3-3145-45f4-ba73-cd57ade1a01c.py" 
+19.06.2019 16:15:55 - Finished "exec.cmd"
+19.06.2019 16:16:05 - Starting "exec.cmd"
+19.06.2019 16:16:05 - 
+19.06.2019 16:16:05 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\7b742fb3-3145-45f4-ba73-cd57ade1a01c.py" 
+19.06.2019 16:16:05 - Finished "exec.cmd"
+19.06.2019 16:18:16 - Starting "exec.cmd"
+19.06.2019 16:18:16 - 
+19.06.2019 16:18:16 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:18:16 - Finished "exec.cmd"
+19.06.2019 16:18:26 - Starting "exec.cmd"
+19.06.2019 16:18:26 - 
+19.06.2019 16:18:26 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:18:26 - Finished "exec.cmd"
+19.06.2019 16:18:54 - Starting "exec.cmd"
+19.06.2019 16:18:54 - 
+19.06.2019 16:18:54 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:18:54 - Finished "exec.cmd"
+19.06.2019 16:20:55 - Starting "exec.cmd"
+19.06.2019 16:20:56 - 
+19.06.2019 16:20:56 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:20:56 - Finished "exec.cmd"
+19.06.2019 16:21:03 - Starting "exec.cmd"
+19.06.2019 16:21:03 - 
+19.06.2019 16:21:03 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:21:03 - Finished "exec.cmd"
+19.06.2019 16:21:09 - Starting "exec.cmd"
+19.06.2019 16:21:09 - 
+19.06.2019 16:21:09 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:21:10 - Finished "exec.cmd"
+19.06.2019 16:21:15 - Starting "exec.cmd"
+19.06.2019 16:21:15 - 
+19.06.2019 16:21:15 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:21:15 - Finished "exec.cmd"
+19.06.2019 16:21:31 - Starting "exec.cmd"
+19.06.2019 16:21:31 - 
+19.06.2019 16:21:31 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:21:32 - Finished "exec.cmd"
+19.06.2019 16:24:23 - Starting "exec.cmd"
+19.06.2019 16:24:23 - 
+19.06.2019 16:24:23 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:24:23 - Finished "exec.cmd"
+19.06.2019 16:24:47 - Starting "exec.cmd"
+19.06.2019 16:24:47 - 
+19.06.2019 16:24:47 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:24:47 - Finished "exec.cmd"
+19.06.2019 16:24:49 - Starting "exec.cmd"
+19.06.2019 16:24:49 - 
+19.06.2019 16:24:49 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:24:49 - Finished "exec.cmd"
+19.06.2019 16:24:50 - Starting "exec.cmd"
+19.06.2019 16:24:50 - 
+19.06.2019 16:24:50 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:24:50 - Finished "exec.cmd"
+19.06.2019 16:25:13 - Starting "exec.cmd"
+19.06.2019 16:25:13 - 
+19.06.2019 16:25:13 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:25:13 - Finished "exec.cmd"
+19.06.2019 16:25:14 - Starting "exec.cmd"
+19.06.2019 16:25:14 - 
+19.06.2019 16:25:14 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:25:14 - Finished "exec.cmd"
+19.06.2019 16:25:19 - Starting "exec.cmd"
+19.06.2019 16:25:19 - 
+19.06.2019 16:25:19 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:25:19 - Finished "exec.cmd"
+19.06.2019 16:25:19 - Starting "exec.cmd"
+19.06.2019 16:25:20 - 
+19.06.2019 16:25:20 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:25:20 - Finished "exec.cmd"
+19.06.2019 16:27:23 - Starting "exec.cmd"
+19.06.2019 16:27:23 - 
+19.06.2019 16:27:23 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:27:23 - Finished "exec.cmd"
+19.06.2019 16:27:26 - Starting "exec.cmd"
+19.06.2019 16:27:26 - 
+19.06.2019 16:27:26 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:27:26 - Finished "exec.cmd"
+19.06.2019 16:28:02 - Starting "exec.cmd"
+19.06.2019 16:28:02 - 
+19.06.2019 16:28:02 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:28:02 - Finished "exec.cmd"
+19.06.2019 16:28:24 - Starting "exec.cmd"
+19.06.2019 16:28:24 - 
+19.06.2019 16:28:24 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:28:24 - Finished "exec.cmd"
+19.06.2019 16:28:55 - Starting "exec.cmd"
+19.06.2019 16:28:55 - 
+19.06.2019 16:28:55 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:28:56 - Finished "exec.cmd"
+19.06.2019 16:30:08 - Starting "exec.cmd"
+19.06.2019 16:30:08 - 
+19.06.2019 16:30:08 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:30:09 - Finished "exec.cmd"
+19.06.2019 16:30:14 - Starting "exec.cmd"
+19.06.2019 16:30:14 - 
+19.06.2019 16:30:14 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:30:14 - Finished "exec.cmd"
+19.06.2019 16:30:15 - Starting "exec.cmd"
+19.06.2019 16:30:15 - 
+19.06.2019 16:30:15 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:30:15 - Finished "exec.cmd"
+19.06.2019 16:31:09 - Starting "exec.cmd"
+19.06.2019 16:31:09 - 
+19.06.2019 16:31:09 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:31:10 - Finished "exec.cmd"
+19.06.2019 16:31:11 - Starting "exec.cmd"
+19.06.2019 16:31:11 - 
+19.06.2019 16:31:11 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:31:11 - Finished "exec.cmd"
+19.06.2019 16:33:03 - Starting "exec.cmd"
+19.06.2019 16:33:04 - 
+19.06.2019 16:33:04 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:33:04 - Finished "exec.cmd"
+19.06.2019 16:33:29 - Starting "exec.cmd"
+19.06.2019 16:33:29 - 
+19.06.2019 16:33:29 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:33:29 - 12
+19.06.2019 16:33:29 - Finished "exec.cmd"
+19.06.2019 16:33:52 - Starting "exec.cmd"
+19.06.2019 16:33:52 - 
+19.06.2019 16:33:52 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:33:52 - 12
+19.06.2019 16:33:52 - Finished "exec.cmd"
+19.06.2019 16:35:34 - Starting "exec.cmd"
+19.06.2019 16:35:34 - 
+19.06.2019 16:35:34 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:35:34 - Finished "exec.cmd"
+19.06.2019 16:36:12 - Starting "exec.cmd"
+19.06.2019 16:36:12 - 
+19.06.2019 16:36:12 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:36:12 - Finished "exec.cmd"
+19.06.2019 16:36:14 - Starting "exec.cmd"
+19.06.2019 16:36:14 - 
+19.06.2019 16:36:14 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:36:14 - Finished "exec.cmd"
+19.06.2019 16:36:56 - Starting "exec.cmd"
+19.06.2019 16:36:56 - 
+19.06.2019 16:36:56 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:36:56 - Finished "exec.cmd"
+19.06.2019 16:37:10 - Starting "exec.cmd"
+19.06.2019 16:37:10 - 
+19.06.2019 16:37:10 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:37:10 - Finished "exec.cmd"
+19.06.2019 16:38:09 - Starting "exec.cmd"
+19.06.2019 16:38:09 - 
+19.06.2019 16:38:09 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:38:09 - Finished "exec.cmd"
+19.06.2019 16:38:56 - Starting "exec.cmd"
+19.06.2019 16:38:56 - 
+19.06.2019 16:38:56 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:38:56 - Finished "exec.cmd"
+19.06.2019 16:38:57 - Starting "exec.cmd"
+19.06.2019 16:38:57 - 
+19.06.2019 16:38:57 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:38:57 - Finished "exec.cmd"
+19.06.2019 16:39:34 - Starting "exec.cmd"
+19.06.2019 16:39:34 - 
+19.06.2019 16:39:34 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:39:34 - Finished "exec.cmd"
+19.06.2019 16:39:42 - Starting "exec.cmd"
+19.06.2019 16:39:42 - 
+19.06.2019 16:39:42 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:39:42 - Finished "exec.cmd"
+19.06.2019 16:41:17 - Starting "exec.cmd"
+19.06.2019 16:41:17 - 
+19.06.2019 16:41:17 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:41:17 - Finished "exec.cmd"
+19.06.2019 16:41:34 - Starting "exec.cmd"
+19.06.2019 16:41:35 - 
+19.06.2019 16:41:35 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:41:35 - Finished "exec.cmd"
+19.06.2019 16:41:45 - Starting "exec.cmd"
+19.06.2019 16:41:45 - 
+19.06.2019 16:41:45 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:41:45 - Finished "exec.cmd"
+19.06.2019 16:43:06 - Starting "exec.cmd"
+19.06.2019 16:43:06 - 
+19.06.2019 16:43:06 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:43:06 - Finished "exec.cmd"
+19.06.2019 16:43:12 - Starting "exec.cmd"
+19.06.2019 16:43:13 - 
+19.06.2019 16:43:13 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:43:13 - Finished "exec.cmd"
+19.06.2019 16:43:52 - Starting "exec.cmd"
+19.06.2019 16:43:53 - 
+19.06.2019 16:43:53 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:43:53 - Finished "exec.cmd"
+19.06.2019 16:44:17 - Starting "exec.cmd"
+19.06.2019 16:44:17 - 
+19.06.2019 16:44:17 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:44:17 - Finished "exec.cmd"
+19.06.2019 16:50:08 - Starting "exec.cmd"
+19.06.2019 16:50:08 - 
+19.06.2019 16:50:08 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:50:08 - Finished "exec.cmd"
+19.06.2019 16:50:14 - Starting "exec.cmd"
+19.06.2019 16:50:14 - 
+19.06.2019 16:50:14 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:50:15 - Finished "exec.cmd"
+19.06.2019 16:54:25 - Starting "exec.cmd"
+19.06.2019 16:54:25 - 
+19.06.2019 16:54:25 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:54:26 - Finished "exec.cmd"
+19.06.2019 16:54:33 - Starting "exec.cmd"
+19.06.2019 16:54:33 - 
+19.06.2019 16:54:33 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:54:33 - Finished "exec.cmd"
+19.06.2019 16:57:24 - Starting "exec.cmd"
+19.06.2019 16:57:24 - 
+19.06.2019 16:57:24 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:57:24 - Finished "exec.cmd"
+19.06.2019 16:57:31 - Starting "exec.cmd"
+19.06.2019 16:57:31 - 
+19.06.2019 16:57:31 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:57:31 - Finished "exec.cmd"
+19.06.2019 16:58:33 - Starting "exec.cmd"
+19.06.2019 16:58:33 - 
+19.06.2019 16:58:33 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:58:33 - Finished "exec.cmd"
+19.06.2019 16:58:45 - Starting "exec.cmd"
+19.06.2019 16:58:45 - 
+19.06.2019 16:58:45 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 16:58:45 - Finished "exec.cmd"
+19.06.2019 17:00:31 - Starting "exec.cmd"
+19.06.2019 17:00:31 - 
+19.06.2019 17:00:31 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 17:00:31 - Finished "exec.cmd"
+19.06.2019 17:00:55 - Starting "exec.cmd"
+19.06.2019 17:00:56 - 
+19.06.2019 17:00:56 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 17:00:56 - Finished "exec.cmd"
+19.06.2019 17:00:57 - Starting "exec.cmd"
+19.06.2019 17:00:58 - 
+19.06.2019 17:00:58 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+19.06.2019 17:00:58 - Finished "exec.cmd"
+19.06.2019 17:00:59 - Starting "exec.cmd"
+19.06.2019 17:00:59 - 
+19.06.2019 17:00:59 - C:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+19.06.2019 17:01:00 - Finished "exec.cmd"
+21.06.2019 19:58:21 - Starting "exec.cmd"
+21.06.2019 19:58:21 - 
+21.06.2019 19:58:21 - c:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+21.06.2019 19:58:21 - Finished "exec.cmd"
+21.06.2019 19:59:02 - Starting "exec.cmd"
+21.06.2019 19:59:02 - 
+21.06.2019 19:59:02 - c:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\534d4d5b-5fc9-4cf9-9c6e-74bc756a698c.py" 
+21.06.2019 19:59:02 - Finished "exec.cmd"
+21.06.2019 19:59:02 - Starting "exec.cmd"
+21.06.2019 19:59:02 - 
+21.06.2019 19:59:02 - c:\Users\Alexei\Documents\Lazarus Projects\PET>C:\Users\Alexei\AppData\Local\Programs\Python\Python37\python.exe "C:\Users\Alexei\Documents\Lazarus Projects\PET\5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4.py" 
+21.06.2019 19:59:02 - Finished "exec.cmd"
+22.06.2019 12:07:16 - Starting "exec.cmd"
+22.06.2019 12:07:16 - 
+22.06.2019 12:07:16 - Finished "exec.cmd"
+22.06.2019 12:07:20 - Starting "exec.cmd"
+22.06.2019 12:07:20 - 
+22.06.2019 12:07:20 - Finished "exec.cmd"
+22.06.2019 12:07:25 - Starting "exec.cmd"
+22.06.2019 12:07:25 - 
+22.06.2019 12:07:25 - Finished "exec.cmd"
+22.06.2019 12:07:30 - Starting "exec.cmd"
+22.06.2019 12:07:30 - 
+22.06.2019 12:07:30 - Finished "exec.cmd"
+22.06.2019 12:08:48 - Starting "exec.cmd"
+22.06.2019 12:08:48 - 
+22.06.2019 12:08:49 - Finished "exec.cmd"
+22.06.2019 12:08:49 - Starting "exec.cmd"
+22.06.2019 12:08:49 - 
+22.06.2019 12:08:49 - Finished "exec.cmd"
+22.06.2019 12:24:08 - Starting "exec.cmd"
+22.06.2019 12:24:08 - 
+22.06.2019 12:24:08 - Finished "exec.cmd"
+22.06.2019 12:24:43 - Starting "exec.cmd"
+22.06.2019 12:24:43 - 
+22.06.2019 12:24:43 - Finished "exec.cmd"
+22.06.2019 12:25:03 - Starting "exec.cmd"
+22.06.2019 12:25:03 - 
+22.06.2019 12:25:03 - Finished "exec.cmd"
+22.06.2019 12:25:09 - Starting "exec.cmd"
+22.06.2019 12:25:09 - 
+22.06.2019 12:25:09 - Finished "exec.cmd"
+22.06.2019 12:25:32 - Starting "exec.cmd"
+22.06.2019 12:25:32 - 
+22.06.2019 12:25:32 - Finished "exec.cmd"
+22.06.2019 12:25:42 - Starting "exec.cmd"
+22.06.2019 12:25:42 - 
+22.06.2019 12:25:42 - Finished "exec.cmd"
+22.06.2019 17:34:28 - Starting "exec.cmd"
+22.06.2019 17:34:28 - 
+22.06.2019 17:34:28 - Finished "exec.cmd"
+22.06.2019 22:09:51 - Starting "exec.cmd"
+22.06.2019 22:09:51 - 
+22.06.2019 22:09:51 - Finished "exec.cmd"
+22.06.2019 22:13:17 - Starting "exec.cmd"
+22.06.2019 22:13:17 - 
+22.06.2019 22:13:17 - Finished "exec.cmd"
+06.07.2019 19:18:22 - Starting "exec.cmd"
+06.07.2019 19:18:22 - 
+06.07.2019 19:18:23 - Finished "exec.cmd"
+06.07.2019 19:19:17 - Starting "exec.cmd"
+06.07.2019 19:19:17 - 
+06.07.2019 19:19:17 - Finished "exec.cmd"
+09.10.2019 19:43:02 - Starting "exec.cmd"
+09.10.2019 19:43:03 - 
+09.10.2019 19:43:03 - Finished "exec.cmd"
+09.10.2019 19:44:13 - Starting "exec.cmd"
+09.10.2019 19:44:13 - 
+09.10.2019 19:44:13 - Finished "exec.cmd"
+09.10.2019 21:01:05 - Starting "exec.cmd"
+09.10.2019 21:01:05 - 
+09.10.2019 21:01:05 - Finished "exec.cmd"
+09.10.2019 21:12:35 - Starting "exec.cmd"
+09.10.2019 21:12:35 - 
+09.10.2019 21:12:35 - Finished "exec.cmd"
+09.10.2019 21:13:35 - Starting "exec.cmd"
+09.10.2019 21:13:35 - 
+09.10.2019 21:13:35 - Finished "exec.cmd"
+09.10.2019 21:13:43 - Starting "exec.cmd"
+09.10.2019 21:13:43 - 
+09.10.2019 21:13:43 - Finished "exec.cmd"
+09.10.2019 21:25:10 - Starting "exec.cmd"
+09.10.2019 21:25:10 - 
+09.10.2019 21:25:10 - Finished "exec.cmd"
+09.10.2019 21:25:39 - Starting "exec.cmd"
+09.10.2019 21:25:39 - 
+09.10.2019 21:25:39 - Finished "exec.cmd"
+09.10.2019 21:29:36 - Starting "exec.cmd"
+09.10.2019 21:29:36 - 
+09.10.2019 21:29:36 - Finished "exec.cmd"
+09.10.2019 21:30:03 - Starting "exec.cmd"
+09.10.2019 21:30:03 - 
+09.10.2019 21:30:03 - Finished "exec.cmd"
+09.10.2019 21:31:18 - Starting "exec.cmd"
+09.10.2019 21:31:18 - 
+09.10.2019 21:31:18 - Finished "exec.cmd"
+09.10.2019 21:36:41 - Starting "exec.cmd"
+09.10.2019 21:36:41 - 
+09.10.2019 21:36:41 - Finished "exec.cmd"
+09.10.2019 22:04:29 - Starting "exec.cmd"
+09.10.2019 22:04:29 - 
+09.10.2019 22:05:15 - Batchvorgang abbrechen (J/N)? kill
+09.10.2019 22:05:16 - Batchvorgang abbrechen (J/N)? -d-data-evaluate-expression 1
+09.10.2019 22:05:19 - Batchvorgang abbrechen (J/N)? kill
+09.10.2019 22:10:37 - Batchvorgang abbrechen (J/N)? 
+09.10.2019 22:10:37 - Finished "exec.cmd"
+09.10.2019 22:10:45 - Starting "exec.cmd"
+09.10.2019 22:10:45 - 
+09.10.2019 22:10:45 - 
+09.10.2019 22:10:45 - C:\Users\Alexei\Documents\Lazarus Projects\PET>REM HELLO 
+09.10.2019 22:10:45 - Finished "exec.cmd"
+09.10.2019 22:10:51 - Starting "exec.cmd"
+09.10.2019 22:10:51 - 
+09.10.2019 22:10:51 - 
+09.10.2019 22:10:51 - C:\Users\Alexei\Documents\Lazarus Projects\PET>REM HELLO 
+09.10.2019 22:10:51 - Finished "exec.cmd"
+09.10.2019 22:10:55 - Starting "exec.cmd"
+09.10.2019 22:10:55 - 
+09.10.2019 22:10:55 - 
+09.10.2019 22:10:55 - C:\Users\Alexei\Documents\Lazarus Projects\PET>REM HELLO 
+09.10.2019 22:10:55 - Finished "exec.cmd"
+09.10.2019 22:10:56 - Starting "exec.cmd"
+09.10.2019 22:10:56 - 
+09.10.2019 22:10:56 - 
+09.10.2019 22:10:56 - C:\Users\Alexei\Documents\Lazarus Projects\PET>REM HELLO 
+09.10.2019 22:10:56 - Finished "exec.cmd"
+09.10.2019 22:11:33 - Starting "exec.cmd"
+09.10.2019 22:11:33 - 
+09.10.2019 22:11:33 - 
+09.10.2019 22:11:33 - C:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO HELLO WORLD 
+09.10.2019 22:11:33 - HELLO WORLD
+09.10.2019 22:11:33 - Finished "exec.cmd"
+09.10.2019 22:11:41 - Starting "exec.cmd"
+09.10.2019 22:11:41 - 
+09.10.2019 22:11:41 - 
+09.10.2019 22:11:41 - C:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO HELLO WORLD 
+09.10.2019 22:11:41 - HELLO WORLD
+09.10.2019 22:11:41 - Finished "exec.cmd"
+09.10.2019 22:11:45 - Starting "exec.cmd"
+09.10.2019 22:11:45 - 
+09.10.2019 22:11:45 - 
+09.10.2019 22:11:45 - C:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO HELLO WORLD 
+09.10.2019 22:11:45 - HELLO WORLD
+09.10.2019 22:11:45 - Finished "exec.cmd"
+09.10.2019 22:12:08 - Starting "exec.cmd"
+09.10.2019 22:12:08 - 
+09.10.2019 22:12:08 - 
+09.10.2019 22:12:08 - C:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO HELLO WORLD  1>>result 
+09.10.2019 22:12:08 - Finished "exec.cmd"
+09.10.2019 22:12:38 - Starting "exec.cmd"
+09.10.2019 22:12:38 - 
+09.10.2019 22:12:38 - 
+09.10.2019 22:12:38 - C:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO HELLO WORLD  1>>result_data 
+09.10.2019 22:12:38 - Finished "exec.cmd"
+09.10.2019 22:13:29 - Starting "exec.cmd"
+09.10.2019 22:13:29 - 
+09.10.2019 22:13:29 - 
+09.10.2019 22:13:29 - C:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO HELLO WORLD  1>>result_data 
+09.10.2019 22:13:29 - Finished "exec.cmd"
+09.10.2019 22:14:04 - Starting "exec.cmd"
+09.10.2019 22:14:04 - 
+09.10.2019 22:14:04 - 
+09.10.2019 22:14:04 - C:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO 1  1>>result_data 
+09.10.2019 22:14:04 - 
+09.10.2019 22:14:04 - C:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO HELLO WORLD  1>>result_data 
+09.10.2019 22:14:04 - Finished "exec.cmd"
+09.10.2019 22:15:41 - Starting "exec.cmd"
+09.10.2019 22:15:41 - 
+09.10.2019 22:15:41 - 
+09.10.2019 22:15:41 - C:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO 1  1>result 
+09.10.2019 22:15:41 - 
+09.10.2019 22:15:41 - C:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO HELLO WORLD  1>result_data 
+09.10.2019 22:15:41 - Finished "exec.cmd"
+09.10.2019 22:16:06 - Starting "exec.cmd"
+09.10.2019 22:16:07 - 
+09.10.2019 22:16:07 - 
+09.10.2019 22:16:07 - C:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO 1  1>result 
+09.10.2019 22:16:07 - 
+09.10.2019 22:16:07 - C:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO HELLO WORLD  1>result_data 
+09.10.2019 22:16:07 - Finished "exec.cmd"
+09.10.2019 22:16:16 - Starting "exec.cmd"
+09.10.2019 22:16:16 - 
+09.10.2019 22:16:16 - 
+09.10.2019 22:16:16 - C:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO HELLO WORLD 
+09.10.2019 22:16:16 - HELLO WORLD
+09.10.2019 22:16:16 - Finished "exec.cmd"
+09.10.2019 22:33:10 - Starting "exec.cmd"
+09.10.2019 22:33:10 - 
+09.10.2019 22:33:10 - 
+09.10.2019 22:33:10 - C:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO HELLO WORLD 
+09.10.2019 22:33:10 - HELLO WORLD
+09.10.2019 22:33:10 - Finished "exec.cmd"
+09.10.2019 22:33:10 - Starting "exec.cmd"
+09.10.2019 22:33:10 - 
+09.10.2019 22:33:10 - Finished "exec.cmd"
+11.10.2019 21:16:06 - Starting "exec.cmd"
+11.10.2019 21:16:06 - 
+11.10.2019 21:16:06 - Finished "exec.cmd"
+11.10.2019 21:16:14 - Starting "exec.cmd"
+11.10.2019 21:16:14 - 
+11.10.2019 21:16:14 - Finished "exec.cmd"
+11.10.2019 21:16:17 - Starting "exec.cmd"
+11.10.2019 21:16:17 - 
+11.10.2019 21:16:17 - Finished "exec.cmd"
+11.10.2019 21:16:23 - Starting "exec.cmd"
+11.10.2019 21:16:23 - 
+11.10.2019 21:16:23 - Finished "exec.cmd"
+11.10.2019 21:16:23 - Starting "exec.cmd"
+11.10.2019 21:16:23 - 
+11.10.2019 21:16:23 - 
+11.10.2019 21:16:23 - c:\Users\Alexei\Documents\Lazarus Projects\PET>##PARAM##
+11.10.2019 21:16:23 - 
+11.10.2019 21:16:23 - c:\Users\Alexei\Documents\Lazarus Projects\PET>a = 1 
+11.10.2019 21:16:23 - 
+11.10.2019 21:16:23 - c:\Users\Alexei\Documents\Lazarus Projects\PET>b = 2 
+11.10.2019 21:16:23 - 
+11.10.2019 21:16:23 - c:\Users\Alexei\Documents\Lazarus Projects\PET>#/PARAM##
+11.10.2019 21:16:23 - 
+11.10.2019 21:16:23 - c:\Users\Alexei\Documents\Lazarus Projects\PET>try:
+11.10.2019 21:16:23 - 
+11.10.2019 21:16:23 - c:\Users\Alexei\Documents\Lazarus Projects\PET>##MAIN##
+11.10.2019 21:16:23 - 
+11.10.2019 21:16:23 - c:\Users\Alexei\Documents\Lazarus Projects\PET>c = a * b 
+11.10.2019 21:16:23 - 
+11.10.2019 21:16:23 - c:\Users\Alexei\Documents\Lazarus Projects\PET>#/MAIN##
+11.10.2019 21:16:23 - 
+11.10.2019 21:16:23 - c:\Users\Alexei\Documents\Lazarus Projects\PET>##DONOTCHANGE##
+11.10.2019 21:16:24 - 
+11.10.2019 21:16:24 - c:\Users\Alexei\Documents\Lazarus Projects\PET>result = 1 
+11.10.2019 21:16:24 - 
+11.10.2019 21:16:24 - c:\Users\Alexei\Documents\Lazarus Projects\PET>result_data = c 
+11.10.2019 21:16:24 - 
+11.10.2019 21:16:24 - c:\Users\Alexei\Documents\Lazarus Projects\PET>except:
+11.10.2019 21:16:24 - 
+11.10.2019 21:16:24 - c:\Users\Alexei\Documents\Lazarus Projects\PET>result = 0 
+11.10.2019 21:16:24 - 
+11.10.2019 21:16:24 - c:\Users\Alexei\Documents\Lazarus Projects\PET>finally:
+11.10.2019 21:16:24 - 
+11.10.2019 21:16:24 - c:\Users\Alexei\Documents\Lazarus Projects\PET>file = open("result","w") 
+11.10.2019 21:16:24 - 
+11.10.2019 21:16:24 - c:\Users\Alexei\Documents\Lazarus Projects\PET>file_data = open("result_data","w") 
+11.10.2019 21:16:24 - 
+11.10.2019 21:16:24 - c:\Users\Alexei\Documents\Lazarus Projects\PET>file.write(str(result)) 
+11.10.2019 21:16:24 - 
+11.10.2019 21:16:24 - c:\Users\Alexei\Documents\Lazarus Projects\PET>file_data.write(str(result_data)) 
+11.10.2019 21:16:24 - 
+11.10.2019 21:16:24 - c:\Users\Alexei\Documents\Lazarus Projects\PET>file.close() 
+11.10.2019 21:16:24 - 
+11.10.2019 21:16:24 - c:\Users\Alexei\Documents\Lazarus Projects\PET>file_data.close() 
+11.10.2019 21:16:24 - 
+11.10.2019 21:16:24 - c:\Users\Alexei\Documents\Lazarus Projects\PET>#/DONOTCHANGE##
+11.10.2019 21:16:24 - Finished "exec.cmd"
+11.10.2019 21:16:24 - Starting "exec.cmd"
+11.10.2019 21:16:24 - 
+11.10.2019 21:16:24 - Finished "exec.cmd"
+11.10.2019 21:16:24 - Starting "exec.cmd"
+11.10.2019 21:16:24 - 
+11.10.2019 21:16:24 - Finished "exec.cmd"
+11.10.2019 23:13:16 - Starting "exec.cmd"
+11.10.2019 23:13:16 - 
+11.10.2019 23:13:16 - 
+11.10.2019 23:13:16 - c:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO HELLO WORLD 
+11.10.2019 23:13:16 - HELLO WORLD
+11.10.2019 23:13:16 - Finished "exec.cmd"
+11.10.2019 23:13:23 - Starting "exec.cmd"
+11.10.2019 23:13:23 - 
+11.10.2019 23:13:23 - Finished "exec.cmd"
+11.10.2019 23:13:23 - Starting "exec.cmd"
+11.10.2019 23:13:23 - 
+11.10.2019 23:13:24 - Finished "exec.cmd"
+11.10.2019 23:13:24 - Starting "exec.cmd"
+11.10.2019 23:13:24 - 
+11.10.2019 23:13:24 - Finished "exec.cmd"
+11.10.2019 23:13:24 - Starting "exec.cmd"
+11.10.2019 23:13:24 - 
+11.10.2019 23:13:24 - Finished "exec.cmd"
+11.10.2019 23:15:41 - Starting "exec.cmd"
+11.10.2019 23:15:42 - 
+11.10.2019 23:15:42 - Finished "exec.cmd"
+11.10.2019 23:15:57 - Starting "exec.cmd"
+11.10.2019 23:15:57 - 
+11.10.2019 23:15:57 - 
+11.10.2019 23:15:57 - c:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO 1  1>result 
+11.10.2019 23:15:57 - 
+11.10.2019 23:15:57 - c:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO HELLO WORLD  1>result_data 
+11.10.2019 23:15:57 - Finished "exec.cmd"
+11.10.2019 23:15:57 - Starting "exec.cmd"
+11.10.2019 23:15:57 - 
+11.10.2019 23:15:58 - 
+11.10.2019 23:15:58 - c:\Users\Alexei\Documents\Lazarus Projects\PET>ECHO HELLO WORLD 
+11.10.2019 23:15:58 - HELLO WORLD
+11.10.2019 23:15:58 - Finished "exec.cmd"
+12.02.2020 20:47:40 - Starting "exec.cmd"
+12.02.2020 20:47:40 - 
+12.02.2020 20:47:40 - Finished "exec.cmd"
+12.02.2020 20:47:40 - Starting "exec.cmd"
+12.02.2020 20:47:40 - 
+12.02.2020 20:47:40 - Finished "exec.cmd"
+12.02.2020 20:47:40 - Starting "exec.cmd"
+12.02.2020 20:47:40 - 
+12.02.2020 20:47:40 - Finished "exec.cmd"
+12.02.2020 20:47:41 - Starting "exec.cmd"
+12.02.2020 20:47:41 - 
+12.02.2020 20:47:41 - Finished "exec.cmd"
+12.02.2020 20:48:17 - Starting "exec.cmd"
+12.02.2020 20:48:17 - 
+12.02.2020 20:48:17 - Finished "exec.cmd"
+12.02.2020 20:48:17 - Starting "exec.cmd"
+12.02.2020 20:48:17 - 
+12.02.2020 20:48:17 - Finished "exec.cmd"
+12.02.2020 20:48:17 - Starting "exec.cmd"
+12.02.2020 20:48:18 - 
+12.02.2020 20:48:18 - Finished "exec.cmd"
+12.02.2020 20:48:18 - Starting "exec.cmd"
+12.02.2020 20:48:18 - 
+12.02.2020 20:48:18 - Finished "exec.cmd"
+12.02.2020 20:48:50 - Starting "exec.cmd"
+12.02.2020 20:48:50 - 
+12.02.2020 20:48:50 - Finished "exec.cmd"
+12.02.2020 20:48:50 - Starting "exec.cmd"
+12.02.2020 20:48:50 - 
+12.02.2020 20:48:51 - Finished "exec.cmd"
+12.02.2020 20:48:51 - Starting "exec.cmd"
+12.02.2020 20:48:51 - 
+12.02.2020 20:48:51 - Finished "exec.cmd"
+12.02.2020 20:48:51 - Starting "exec.cmd"
+12.02.2020 20:48:51 - 
+12.02.2020 20:48:51 - Finished "exec.cmd"

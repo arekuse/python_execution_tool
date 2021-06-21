@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\Apps\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1317890531"/>
+  <Params Value=" -MObjFPC -Scghi -CX -O3 -XX -WG -l -vewnhibq &quot;-FiC:\Users\Alexei\Documents\Lazarus Projects\PET\lib\x86_64-win64&quot; -FuD:\Apps\lazarus\components\synedit\units\x86_64-win64\win32 -FuD:\Apps\lazarus\lcl\units\x86_64-win64\win32 -FuD:\Apps\lazarus\lcl\units\x86_64-win64 -FuD:\Apps\lazarus\components\lazutils\lib\x86_64-win64 -FuD:\Apps\lazarus\packager\units\x86_64-win64 &quot;-FuC:\Users\Alexei\Documents\Lazarus Projects\PET\&quot; &quot;-FUC:\Users\Alexei\Documents\Lazarus Projects\PET\lib\x86_64-win64\&quot; &quot;-FEC:\Users\Alexei\Documents\Lazarus Projects\PET\&quot; &quot;-oC:\Users\Alexei\Documents\Lazarus Projects\PET\PET.exe&quot; -dLCL -dLCLwin32 python_executioner_tool_src.lpr"/>
+</CONFIG>

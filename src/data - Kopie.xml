@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file>
+<group name="Group_1">
+<step id="1" name="Step_1a" uuid="534d4d5b-5fc9-4cf9-9c6e-74bc756a698c" desc="Adding of two numbers">
+##PARAM##\n
+a = 1\n
+b = 2\n
+#/PARAM##\n
+try:\n
+##MAIN##\n
+\tc = a + b\n
+#/MAIN##\n
+##DONOTCHANGE##\n
+\tresult = 1\n
+\tresult_data = c\n
+except:\n
+\tresult = 0\n
+finally:\n
+\tfile = open("result","w")\n
+\tfile_data = open("result_data","w")\n
+\tfile.write(str(result))\n
+\tfile_data.write(str(result_data))\n
+\tfile.close()\n
+\tfile_data.close()\n
+#/DONOTCHANGE##\n
+</step>
+<step id="2" name="Step_1b" uuid="5210dd1e-8192-41a1-9bb5-2bcc45e6f7c4" desc="Multiplying of two numbers">
+##PARAM##\n
+a = 1\n
+b = 2\n
+#/PARAM##\n
+try:\n
+##MAIN##\n
+\tc = a * b\n
+#/MAIN##\n
+##DONOTCHANGE##\n
+\tresult = 1\n
+\tresult_data = c\n
+except:\n
+\tresult = 0\n
+finally:\n
+\tfile = open("result","w")\n
+\tfile_data = open("result_data","w")\n
+\tfile.write(str(result))\n
+\tfile_data.write(str(result_data))\n
+\tfile.close()\n
+\tfile_data.close()\n
+#/DONOTCHANGE##\n
+</step>
+</group>
+<group name="Group_2">
+<step id="1" name="Step_2a" uuid="59e67a75-9f67-4796-a67b-d9ba462bca74" desc="Adding of two numbers">
+##PARAM##\n
+a = 2\n
+b = 2\n
+#/PARAM##\n
+try:\n
+##MAIN##\n
+\tc = a + b\n
+#/MAIN##\n
+##DONOTCHANGE##\n
+\tresult = 1\n
+\tresult_data = c\n
+except:\n
+\tresult = 0\n
+finally:\n
+\tfile = open("result","w")\n
+\tfile_data = open("result_data","w")\n
+\tfile.write(str(result))\n
+\tfile_data.write(str(result_data))\n
+\tfile.close()\n
+\tfile_data.close()\n
+#/DONOTCHANGE##\n
+</step>
+<step id="2" name="Step_2b" uuid="7b742fb3-3145-45f4-ba73-cd57ade1a01c" desc="Multiplying of two numbers">
+##PARAM##\n
+a = 2\n
+b = 2\n
+#/PARAM##\n
+try:\n
+##MAIN##\n
+\tc = a * b\n
+#/MAIN##\n
+##DONOTCHANGE##\n
+\tresult = 1\n
+\tresult_data = c\n
+except:\n
+\tresult = 0\n
+finally:\n
+\tfile = open("result","w")\n
+\tfile_data = open("result_data","w")\n
+\tfile.write(str(result))\n
+\tfile_data.write(str(result_data))\n
+\tfile.close()\n
+\tfile_data.close()\n
+#/DONOTCHANGE##\n
+</step>
+</group>
+</file>
